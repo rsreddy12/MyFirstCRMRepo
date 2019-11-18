@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="112952" started-at="2019-11-17T17:11:46Z" finished-at="2019-11-17T17:13:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="112952" started-at="2019-11-17T17:11:46Z" finished-at="2019-11-17T17:13:39Z">
+      <class name="com.crm.qa.testcases.ContactsPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@146ba0ac]" name="setup" is-config="true" duration-ms="21385" started-at="2019-11-17T22:41:47Z" finished-at="2019-11-17T22:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validteNewContactsTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@146ba0ac]" name="validteNewContactsTest" duration-ms="6536" started-at="2019-11-17T22:42:09Z" data-provider="getCRMTestData" finished-at="2019-11-17T22:42:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shankar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ragireddy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[reddy]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[AIR]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[rsreddy12@hotmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validteNewContactsTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@146ba0ac]" name="setup" is-config="true" duration-ms="21014" started-at="2019-11-17T22:42:15Z" finished-at="2019-11-17T22:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@146ba0ac]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-11-17T22:42:15Z" finished-at="2019-11-17T22:42:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validteNewContactsTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@146ba0ac]" name="validteNewContactsTest" duration-ms="6400" started-at="2019-11-17T22:42:36Z" data-provider="getCRMTestData" finished-at="2019-11-17T22:42:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[srinayana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ragireddy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[reddy]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Google]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[rsreddy12@hotmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validteNewContactsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@146ba0ac]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-11-17T22:42:43Z" finished-at="2019-11-17T22:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@146ba0ac]" name="setup" is-config="true" duration-ms="21124" started-at="2019-11-17T22:42:43Z" finished-at="2019-11-17T22:43:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validteNewContactsTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@146ba0ac]" name="validteNewContactsTest" duration-ms="6088" started-at="2019-11-17T22:43:04Z" data-provider="getCRMTestData" finished-at="2019-11-17T22:43:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[srihitha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ragireddy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[reddy]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[wipro]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[rsreddy12@hotmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validteNewContactsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@146ba0ac]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-11-17T22:43:10Z" finished-at="2019-11-17T22:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@146ba0ac]" name="setup" is-config="true" duration-ms="23454" started-at="2019-11-17T22:43:10Z" finished-at="2019-11-17T22:43:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validteNewContactsTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@146ba0ac]" name="validteNewContactsTest" duration-ms="5291" started-at="2019-11-17T22:43:33Z" data-provider="getCRMTestData" finished-at="2019-11-17T22:43:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manju]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ragireddy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[reddy]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Amazon]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[rsreddy12@hotmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validteNewContactsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@146ba0ac]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-11-17T22:43:39Z" finished-at="2019-11-17T22:43:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

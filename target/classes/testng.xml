@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CRM Application automation suit">
+  <test thread-count="5" name="CRM Test Cases">
+    <classes>
+      <class name="com.crm.qa.testcases.ContactsPageTest"/>
+      <class name="com.crm.qa.testcases.HomePageTest"/>
+      <class name="com.crm.qa.testcases.MainPageTest"/>
+      <class name="com.crm.qa.testcases.LoginPageTest"/>
+    </classes>
+  </test> <!-- CRM Test Cases -->
+</suite> <!-- CRM Application automation suit -->
